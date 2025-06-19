@@ -1,0 +1,7 @@
+![image alt](https://github.com/sakshi72000/MERN_STACK_EVENT_PROJECT/blob/main/Screenshot%202025-06-19%20162745.png?raw=true)
+![image alt](https://github.com/sakshi72000/MERN_STACK_EVENT_PROJECT/blob/main/Screenshot%202025-06-19%20162812.png?raw=true)
+![image alt](https://github.com/sakshi72000/MERN_STACK_EVENT_PROJECT/blob/main/Screenshot%202025-06-19%20162846.png?raw=true)
+![image alt](https://github.com/sakshi72000/MERN_STACK_EVENT_PROJECT/blob/main/Screenshot%202025-06-19%20162907.png?raw=true)
+![image alt](https://github.com/sakshi72000/MERN_STACK_EVENT_PROJECT/blob/main/Screenshot%202025-06-19%20162928.png?raw=true)
+![image alt](https://github.com/sakshi72000/MERN_STACK_EVENT_PROJECT/blob/main/Screenshot%202025-06-19%20162944.png?raw=true)
+![image alt](https://github.com/sakshi72000/MERN_STACK_EVENT_PROJECT/blob/main/Screenshot%202025-06-19%20162956.png?raw=true)
